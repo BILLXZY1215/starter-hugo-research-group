@@ -7,7 +7,6 @@
 
 appearance:
   theme_day: minimal
-  theme_night: Cyberpunk
   font: Native
   font_size: l
 
@@ -36,7 +35,7 @@ header:
     align: r
     show_logo: true
     show_language: true
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
 
