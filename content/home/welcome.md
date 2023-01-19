@@ -21,3 +21,5 @@ design:
 <br>
 
 **Make Computing More Accessible and Usable to Everyone**
+
+{{% cta cta_link="./about/" cta_text="About →" %}}
