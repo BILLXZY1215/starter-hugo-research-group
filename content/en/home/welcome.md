@@ -26,11 +26,23 @@ design:
 
 <br>
 
+Computing empowers people, ONLY when it is accessible and usable to them. Otherwise, the advancement of computing continues to benefit those who are priviliged to have access to it and lead to increased digital inequality. Thus, one fundemental challenge we are confronting now is: How To Make Computing More Accessible and Usable To Everyone?
+
+Welcome to APEX group! Leading by [Prof. Mingming Fan](https://www.mingmingfan.com/), we approach this fundemental challenge from three aspects:
+
+- Understanding **Accessibility Challenges** and Creating novel **Assistive Technology**, especially for _Older Adults_ and _People with Disabilities_;
+
+- Exploring Novel **Computational User Experience (UX) Methods** to better Detect, Understand and Resolve UX Problems by Augmenting Human Intelligence with Computation;
+
+- Making **VR/AR/Metaverse** More Accessible by Creating Multi-Sensory Experiences and Novel Interaction Techniques.
+
+APEX group's research won Best Paper Award, Best Paper Honorable Mention Award, and Best Artifact Award from top-tier venues in the fields of Human-Computer Interaction (HCI) and Accessibility, such as ACM CHI, ACM UbiComp, and ACM ASSETS.
+
 <div style="display: flex; justify-content: center">
 
-<div style="margin: 10px">
+<!-- <div style="margin: 10px">
 {{% cta cta_link="./about/" cta_text="About →" %}}
-</div>
+</div> -->
 
 <div style="margin: 10px">
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
