@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: Cyberpunk
-  font: Cyberpunk
+  font: Native
   font_size: l
 
 # SEO
