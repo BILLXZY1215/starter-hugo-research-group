@@ -20,9 +20,6 @@ zh:
       - name: 关于
         url: "#about"
         weight: 1
-      - name: 最新消息
-        url: post
-        weight: 20
       - name: 人员
         url: people
         weight: 30
