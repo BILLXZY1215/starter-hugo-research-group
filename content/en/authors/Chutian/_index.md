@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Li (Felicia) Feng
+title: Chutian Jiang
 
 # Username (this should match the folder name)
 authors:
-  - Li (Felicia) Feng
+  - Chutian Jiang
 
-weight: 6
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://felicia35.github.io/"
+website: "https://www.chutianj.com/"
 
 # Role/position
-role: Fall/22-
+role: Fall/22- <br> Co-supervise with [Dr. Hui Pan](https://www.cse.ust.hk/~panhui/)
 
 user_groups:
   - Ph.D. Students

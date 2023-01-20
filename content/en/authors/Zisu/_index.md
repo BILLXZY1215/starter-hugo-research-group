@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Li (Felicia) Feng
+title: Zisu Li
 
 # Username (this should match the folder name)
 authors:
-  - Li (Felicia) Feng
+  - Zisu Li
 
-weight: 6
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://felicia35.github.io/"
+website: "https://www.zisue.com/"
 
 # Role/position
-role: Fall/22-
+role: Spring/22-
 
 user_groups:
   - Ph.D. Students

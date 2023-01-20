@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Li (Felicia) Feng
+title: Xiaoying Wei
 
 # Username (this should match the folder name)
 authors:
-  - Li (Felicia) Feng
+  - Xiaoying Wei
 
-weight: 6
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://felicia35.github.io/"
+website: "http://xiaoyingwei.com/"
 
 # Role/position
-role: Fall/22-
+role: Spring/22-
 
 user_groups:
   - Ph.D. Students

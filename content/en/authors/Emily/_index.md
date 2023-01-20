@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Li (Felicia) Feng
+title: Emily Kuang
 
 # Username (this should match the folder name)
 authors:
-  - Li (Felicia) Feng
+  - Emily Kuang
 
-weight: 6
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://felicia35.github.io/"
+website: "https://emilykuang.github.io/"
 
 # Role/position
-role: Fall/22-
+role: Fall/20- <br> Co-supervise with [Dr. Kristen Shinohara](https://kristenshinohara.com/)
 
 user_groups:
   - Ph.D. Students
