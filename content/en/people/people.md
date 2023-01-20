@@ -18,6 +18,7 @@ content:
   user_groups:
     - Principal Investigator
     - Ph.D. Students
+    - <h6>As a Co-Supervisor or a Committee Member</h6>
     - MPhil Students
     - MS Students
     - Alumni
