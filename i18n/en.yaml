@@ -160,7 +160,7 @@
   translation: Publication
 
 - id: publication_type
-  translation: Type
+  translation: All Topics
 
 - id: date
   translation: Date
@@ -176,30 +176,39 @@
 
 - id: pub_uncat
   translation: Uncategorized
+  # 0
 
 - id: pub_conf
-  translation: CHI
+  translation: Accessibility & Aging
+  # 1
 
 - id: pub_journal
-  translation: Journal article
+  translation: VR/AR/Metaverse
+  # 2
 
 - id: pub_preprint
-  translation: UbiComp
+  translation: Human-AI Collaboration
+  # 3
 
 - id: pub_report
-  translation: Report
+  translation: UX Methodology
+  # 4
 
 - id: pub_book
-  translation: Book
+  translation: Social Computing
+  # 5
 
 - id: pub_book_section
-  translation: Book section
+  translation: Sensing
+  # 6
 
 - id: pub_thesis
   translation: Thesis
+  # 7
 
 - id: pub_patent
   translation: Patent
+  # 8
 
 # Project details
 
