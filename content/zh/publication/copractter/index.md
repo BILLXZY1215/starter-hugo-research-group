@@ -65,6 +65,8 @@ projects:
 slides:
 ---
 
+{{< youtube w7Ft2ymGmfc >}}
+
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
