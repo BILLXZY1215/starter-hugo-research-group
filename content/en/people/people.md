@@ -20,6 +20,7 @@ content:
     - Ph.D. Students
     - <h6>As a Co-Supervisor or a Committee Member</h6>
     - MPhil Students
+    - Research Assistant
     - MS Students
     - Alumni
 design:
