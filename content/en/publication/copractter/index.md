@@ -19,6 +19,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type: 
 # 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  7 = Thesis; 8 = Patent
 publication_types: ['1']
+# 2
 
 # Publication name and optional abbreviated publication name.
 publication: The ACM CHI Conference on Human Factors in Computing Systems 2023
@@ -46,7 +47,7 @@ url_dataset: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: '#'
+url_video: ''
 
 
 image:
@@ -58,7 +59,7 @@ image:
 ---
 
 <!-- put your youtube/vimeo video ID here if possible -->
-{{< youtube w7Ft2ymGmfc >}}
+<!-- {{< bilibili 140646285 >}} -->
 
 
 
