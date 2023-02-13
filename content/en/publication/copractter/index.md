@@ -24,10 +24,10 @@ publication_types: ['1']
 publication: The ACM CHI Conference on Human Factors in Computing Systems 2023
 publication_short: CHI 2023
 
-abstract: Stuttering is a speech disorder infuencing over 70 million people worldwide, including 13 million in China. It causes low self-esteem among other detrimental efects on people who stutter (PwS).... 
+abstract: Stuttering is a speech disorder influencing over 70 million people worldwide, including 13 million in China. It causes low self-esteem among other detrimental effects on people who stutter (PwS). Although prior work has explored approaches to assist PwS, they primarily focused on western contexts. In our formative study, we found unique practices and challenges among Chinese PwS. We then iteratively designed an online tool, CoPracTter, to support Chinese PwS practicing speaking fluency with 1) targeted stress-inducing practice scenarios, 2) real-time speech indicators, and 3) personalized timely feedback from the community. We further conducted a seven-day deployment study (N=11) to understand how participants utilized these key features. To our knowledge, it is the first time such a prototype was designed and tested for a long time with multiple PwS participants online simultaneously. Results indicate that personalized practice with targeted scenarios and timely feedback from a supportive community assisted PwS in speaking fluently, staying positive, and facing similar real-life circumstances. 
 
 # Summary. An optional shortened abstract.
-summary: An optional shortened abstract
+summary: 
 
 keywords: People who stutter, Accessibility, Field Study, Assistive Technology
 
@@ -39,7 +39,7 @@ tags:
 featured: true
 
 
-url_pdf: '#'
+url_pdf: https://www.mingmingfan.com/papers/CHI23-CoPractTer.pdf
 url_code: '#'
 url_dataset: '#'
 # url_poster: '#'

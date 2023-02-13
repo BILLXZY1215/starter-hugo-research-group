@@ -1,30 +1,28 @@
 ---
 title: 'CoPracTter: Toward Integrating Personalized Practice Scenarios, Timely Feedback and Social Support into An Online Support Tool for Coping with Stuttering in China'
 authors:
-  - 冯俐
-  - 熊泽宇
-  - 李心怡
-  - 范明明
+  - Li Feng
+  - Zeyu Xiong
+  - Xinyi Li
+  - Mingming Fan
 date: '2023-02-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2017-01-01T00:00:00Z'
 
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# Publication type: 
+# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  7 = Thesis; 8 = Patent
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: CHI 2023
 publication_short: In *STC*
 
-abstract: 口吃是一种语言障碍，影响着全世界7000多万人，包括中国的1300万人。它对口吃患者造成了低自尊和其他有害的影响。尽管之前的工作已经探索了帮助口吃患者的方法，但它们主要集中在西方的背景下。在我们的形成性研究中，我们发现了中国口吃者的独特做法和挑战。然后，我们反复设计了一个在线工具CoPracTter，通过1）有针对性的诱导压力的练习场景，2）实时语音指示器，以及3）来自社区的个性化及时反馈，来支持中国残疾人练习口语能力。我们进一步进行了为期七天的部署研究（N=11），以了解参与者如何利用这些关键功能。据我们所知，这是第一次设计这样一个原型，并同时对多个残疾人进行长时间的在线测试。结果表明，有针对性的场景和来自支持性社区的及时反馈的个性化练习，有助于PwS讲得流利，保持积极，并面对类似的现实生活环境。
+abstract: 口吃是一种语言障碍，它影响着全世界7000多万人，其中包括中国的1300万人。口吃给人造成了很多有害影响，例如使他们的自尊受挫等。尽管之前的工作已经探索了一些帮助口吃患者的方法，但它们主要集中在西方的背景下。我们通过初步研究，发现了中国口吃者的一些独特做法和他们面临的挑战。为此，我们设计了一个在线工具CoPracTter，该工具包含了：1）有针对性的诱导压力的练习场景，2）实时客观反馈，以及3）来自社区的个性化及时反馈。我们进一步用该工具进行了为期七天的部署研究（参与者共11人），以了解参与者如何利用这些关键功能。据我们所知，这是第一个该类型的口吃者交流训练辅助工具，并且是第一次同时对多个残疾人进行长时间的同时在线测试。结果表明，有针对性的训练场景个性化练习，结合来自支持性社群的及时反馈，有助于口吃者训练讲话流利度，保持积极的心态，并帮助他们面对类似的现实生活环境中的情景。
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Source Themes
@@ -33,7 +31,7 @@ featured: true
 links:
   - name: Custom Link
     url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://www.mingmingfan.com/papers/CHI23-CoPractTer.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
@@ -67,8 +65,8 @@ slides:
 
 {{< youtube w7Ft2ymGmfc >}}
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/). -->
