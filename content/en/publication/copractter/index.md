@@ -59,7 +59,7 @@ image:
 ---
 
 <!-- put your youtube/vimeo video ID here if possible -->
-{{< bilibili BV1nA411z7RZ >}}
+<!-- {{< bilibili BV1nA411z7RZ >}} -->
 
 
 
