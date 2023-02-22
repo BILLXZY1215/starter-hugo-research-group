@@ -1,5 +1,5 @@
 ---
-title: 'Sparkling Silence: Practices and Challenges of Livestreaming Among Deaf or Hard of Hearing Streamers'
+title: '"I am the follower, also the boss": Exploring Different Levels of Autonomy and Machine Forms of Guiding Robots for the Visually Impaired'
 authors:
   - Yan Zhang
   - Ziang Li
