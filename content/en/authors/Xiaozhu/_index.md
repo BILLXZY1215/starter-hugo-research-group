@@ -14,8 +14,8 @@ superuser: false
 website: "http://www.huoyuezaiyuan.cn/selfweb/"
 
 # Role/position
-role: Fall/22- <br> Co-supervise with [Dr. Tristan Braud](https://www.cse.ust.hk/~braudt/)
+role: Ph.D. Student <br> Fall/22- <br> Co-supervise with [Dr. Tristan Braud](https://www.cse.ust.hk/~braudt/)
 
 user_groups:
-  - Ph.D. Students
+  - Team
 ---

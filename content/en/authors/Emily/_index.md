@@ -6,7 +6,7 @@ title: Emily Kuang
 authors:
   - Emily Kuang
 
-weight: 1
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ superuser: false
 website: "https://emilykuang.github.io/"
 
 # Role/position
-role: Fall/20- <br> Co-supervise with [Dr. Kristen Shinohara](https://kristenshinohara.com/)
+role: Ph.D. Student <br> Fall/20- <br> Co-supervise with [Dr. Kristen Shinohara](https://kristenshinohara.com/)
 
 user_groups:
-  - Ph.D. Students
+  - Team
 ---

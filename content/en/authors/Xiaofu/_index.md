@@ -14,8 +14,8 @@ superuser: false
 website: "https://xiaofu-jin.github.io/"
 
 # Role/position
-role: Fall/20- <br> Co-supervise with [Dr. Huamin Qu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=huamin-qu-huamin)
+role: Ph.D. Student <br> Fall/20- <br> Co-supervise with [Dr. Huamin Qu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=huamin-qu-huamin)
 
 user_groups:
-  - Ph.D. Students
+  - Team
 ---

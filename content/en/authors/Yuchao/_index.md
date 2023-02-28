@@ -9,10 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-
 # Role/position
-role: Fall/22-
+role: MPhil Student <br> Fall/22-
 
 user_groups:
-  - MPhil Students
+  - Team
 ---

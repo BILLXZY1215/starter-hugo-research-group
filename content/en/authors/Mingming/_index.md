@@ -7,9 +7,11 @@ superuser: true
 
 website: "https://www.mingmingfan.com"
 
+weight: 1
+
 # Role/position
-role: <p>Assistant Professor, Computational Media and Arts (CMA) Thrust, HKUST(GZ) <br> Assistant Professor, Division of Integrative Systems and Design (ISD), HKUST <br> Affiliated Assistant Professor, Computer Science and Engineering (CSE), HKUST <br> Ph.D., 2019, Department of Computer Science, University of Toronto </p>
+role: Assistant Professor <br> [CMA, HKUST(GZ)](https://cma.hkust-gz.edu.cn/) <br> [ISD, HKUST](https://isd.hkust.edu.hk/) <br> [CSE, HKUST](https://cse.hkust.edu.hk/) (Affiliated)
 
 user_groups:
-  - Principal Investigator
+  - Team
 ---
