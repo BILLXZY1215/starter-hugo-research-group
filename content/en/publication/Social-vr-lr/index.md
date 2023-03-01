@@ -1,5 +1,5 @@
 ---
-title: 'Communication in Immersive Social Virtual Reality: A Systematic Review of 10 Years' Studies'
+title: "Communication in Immersive Social Virtual Reality: A Systematic Review of 10 Years' Studies"
 authors:
   - Xiaoying Wei
   - Xiaofu Jin
