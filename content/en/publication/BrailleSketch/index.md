@@ -1,16 +1,14 @@
 ---
-title: 'Sparkling Silence: Practices and Challenges of Livestreaming Among Deaf or Hard of Hearing Streamers'
+title: 'BrailleSketch: A Gesture-based Text Entry Method for People with Visual Impairments'
 authors:
-  - Beiyan Cao
-  - Changyang He
-  - Muzhi Zhou
+  - Franklin Li
   - Mingming Fan
+  - Khai N. Truong
 author_notes:
   - 
   - 
-  - Corresponding author
-  - Corresponding author
-date: '2023-02-11T00:00:00Z'
+  - 
+date: '2022-11-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,27 +19,29 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: The ACM CHI Conference on Human Factors in Computing Systems 2023
-publication_short: CHI 2023
+publication: In 19th International ACM SIGACCESS Conference on Computers and Accessibility 2017
+publication_short: ASSETS 2017
 
-abstract: Understanding livestream platforms’ accessibility challenges for minority groups, such as people with disabilities, is critical to in- creasing the diversity and inclusion of those platforms. While prior work investigated the experiences of streamers with vision or mo- tor loss, little is known about the experiences of deaf or hard of hearing (DHH) streamers who must work with livestreaming plat- forms that heavily depend on audio. We conducted semi-structured interviews with DHH streamers to learn why they livestream, how they navigate livestream platforms and related challenges. Our findings revealed their desire to break the stereotypes towards the DHH groups via livestream and the intense interplay between interaction methods, such as sign language, texts, lip language, background music, and viewer characteristics. Major accessibility challenges include the lack of real-time captioning, the small sign language reading window, and misinterpretation of sign language. We present design considerations for improving the accessibility of the livestream platforms.
+abstract: In this paper, we present BrailleSketch, a gesture-based text input method on touchscreen smartphones for people with visual impairments. To input a letter with BrailleSketch, a user simply sketches a gesture that passes through all dots in the corresponding Braille code for that letter. BrailleSketch allows users to place their fingers anywhere on the screen to begin a gesture and draw the Braille code in many ways. To encourage users to type faster, BrailleSketch does not provide immediate letter-level audio feedback but instead provides word-level audio feedback. It uses an auto-correction algorithm to correct typing errors. Our evaluation of the method with ten participants with visual impairments who each completed five typing sessions shows that BrailleSketch supports a text entry speed of 14.53 word per min (wpm) with 10.6% error. Moreover, our data suggests that the speed had not begun to plateau yet by the last typing session and can continue to improve. Our evaluation also demonstrates the positive effect of the reduced audio feedback and the auto-correction algorithm. 
 
 # Summary. An optional shortened abstract.
 summary:
 
-keywords: deaf or hard of hearing (DHH), livestreaming, accessibility, social media/online communities
+keywords: Blind; Braille; text input; mobile devices; sketch; gesture. 
 
 tags:
-  - deaf or hard of hearing (DHH)
-  - livestreaming
-  - accessibility
-  - social media/online communities
+  - Blind
+  - Braille
+  - text input
+  - mobile devices
+  - sketch; gesture 
+
 featured: true
 
 links:
   # - name: Custom Link
   #   url: http://example.org
-url_pdf: 'https://www.mingmingfan.com/papers/CHI23-DHH-livestreaming.pdf'
+url_pdf: 'https://www.mingmingfan.com/papers/BrailleSketch-ASSETS-2017.pdf'
 # [Download file](./Typist.pdf)
 # url_code: '#'
 # url_dataset: '#'
@@ -74,6 +74,6 @@ image:
 # slides:
 ---
 
-<!-- {{< youtube f9lO9tin4tw >}} -->
+<!-- {{< youtube OkqStiGulbY >}} -->
 
 

@@ -1,14 +1,13 @@
 ---
-title: 'BrailleSketch: A Gesture-based Text Entry Method for People with Visual Impairments'
+title: 'Guidelines for Creating Senior-Friendly Product Instructions'
 authors:
-  - Franklin Li
   - Mingming Fan
   - Khai N. Truong
 author_notes:
   - 
   - 
   - 
-date: '2022-11-11T00:00:00Z'
+date: '2018-11-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,29 +18,34 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In 19th International ACM SIGACCESS Conference on Computers and Accessibility 2017
-publication_short: ASSETS 2017
+publication: ACM Transactions on Accessible Computing 11, 2, Article 9 (June 2018), 35 pages.
+publication_short: TACCESS (ASSETS 2018)
 
-abstract: In this paper, we present BrailleSketch, a gesture-based text input method on touchscreen smartphones for people with visual impairments. To input a letter with BrailleSketch, a user simply sketches a gesture that passes through all dots in the corresponding Braille code for that letter. BrailleSketch allows users to place their fingers anywhere on the screen to begin a gesture and draw the Braille code in many ways. To encourage users to type faster, BrailleSketch does not provide immediate letter-level audio feedback but instead provides word-level audio feedback. It uses an auto-correction algorithm to correct typing errors. Our evaluation of the method with ten participants with visual impairments who each completed five typing sessions shows that BrailleSketch supports a text entry speed of 14.53 word per min (wpm) with 10.6% error. Moreover, our data suggests that the speed had not begun to plateau yet by the last typing session and can continue to improve. Our evaluation also demonstrates the positive effect of the reduced audio feedback and the auto-correction algorithm. 
+abstract: Although older adults feel generally positive about technologies, many face difficulties when using them and need support during the process. One common form of support is the product instructions that come with devices. Unfortunately, when using them, older adults often feel confused, overwhelmed, or frustrated. In this work, we sought to address the issues that affect older adults’ ability to successfully complete tasks using product instructions. By observing how older adults used the product instructions of various devices and how they made modifications to simplify the use of the instructions, we identified 11 guidelines for creating senior-friendly product instructions. We validated the usability and effectiveness of the guidelines by evaluating how older adults used instruction manuals that were modified to adhere to these guidelines against the originals and those that were modified by interaction design researchers. Results show that, overall, participants had the highest task success rate and lowest task completion time when using guideline-modified user instructions. Participants also perceived these instructions to be the most helpful, the easiest to follow, the most complete, and the most concise among the three. We also compared the guidelines derived from this research to existing documentation guidelines and discussed potential challenges of applying them.
 
 # Summary. An optional shortened abstract.
 summary:
 
-keywords: Blind; Braille; text input; mobile devices; sketch; gesture. 
+keywords: Guidelines, seniors, older adults, product instructions, user manuals, user-friendly, senior-friendly, user-centered design, technology support, instruction design
 
 tags:
-  - Blind
-  - Braille
-  - text input
-  - mobile devices
-  - sketch; gesture 
+  - Guidelines
+  - seniors
+  - older adults
+  - product instructions
+  - user manuals
+  - user-friendly
+  - senior-friendly
+  - user-centered design
+  - technology support
+  - instruction design
 
 featured: true
 
 links:
   # - name: Custom Link
   #   url: http://example.org
-url_pdf: 'https://www.mingmingfan.com/papers/BrailleSketch-ASSETS-2017.pdf'
+url_pdf: 'https://www.mingmingfan.com/papers/TACCESS-2018-Fan.pdf'
 # [Download file](./Typist.pdf)
 # url_code: '#'
 # url_dataset: '#'

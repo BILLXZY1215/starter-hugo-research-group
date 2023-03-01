@@ -1,5 +1,5 @@
 ---
-title: "Reducing Stress and Anxiety in the Metaverse: A Systematic Review of Meditation, Mindfulness and Virtual Reality"
+title: 'Communication in Immersive Social Virtual Reality: A Systematic Review of 10 Years' Studies'
 authors:
   - Xiaoying Wei
   - Xiaofu Jin
