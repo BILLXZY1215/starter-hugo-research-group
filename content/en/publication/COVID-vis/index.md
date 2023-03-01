@@ -57,12 +57,12 @@ url_pdf: 'https://www.mingmingfan.com/papers/IJHCI-older-adults-visualizations.p
 # url_project: ''
 # url_slides: ''
 url_source: 'https://www.mingmingfan.com/papers/IJHCI-older-adults-visualizations-appendix.pdf'
-url_video: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

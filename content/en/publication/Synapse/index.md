@@ -41,7 +41,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: http://example.org
-url_pdf: '#'
+url_pdf: 'https://www.mingmingfan.com/papers/IMWUT_OlderAdults_Trial_And_Error.pdf'
 # [Download file](./Typist.pdf)
 # url_code: '#'
 # url_dataset: '#'
@@ -54,7 +54,7 @@ url_video: 'https://youtu.be/kSv-HOeTIkc'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 

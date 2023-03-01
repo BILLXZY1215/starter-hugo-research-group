@@ -12,7 +12,6 @@ authors:
 author_notes:
   - 
   - 
-  -
   - Corresponding author
 date: '2023-02-11T00:00:00Z'
 doi: ''
@@ -21,8 +20,8 @@ doi: ''
 publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type: 
-# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  7 = Thesis; 8 = Patent
-publication_types: ['2']
+# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing; 
+publication_types: ['6']
 # 2
 
 # Publication name and optional abbreviated publication name.
@@ -43,17 +42,17 @@ featured: true
 
 
 url_pdf: https://www.mingmingfan.com/papers/CHI23-voice-hand-gestures.pdf
-url_code: '#'
-url_dataset: '#'
+# url_code: ''
+# url_dataset: ''
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: ''
+# url_video: ''
 
 
 image:
-  caption: 'Caption of the image'
+  caption: ''
   focal_point: ''
   preview_only: false
 

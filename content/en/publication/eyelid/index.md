@@ -44,18 +44,18 @@ links:
   #   url: http://example.org
 url_pdf: 'https://cacm.acm.org/magazines/2022/1/257451-eyelid-gestures-for-people-with-motor-impairments/pdf'
 # [Download file](./Typist.pdf)
-# url_code: '#'
+url_code: 'https://github.com/mingming-fan/EyelidGesturesDetection'
 # url_dataset: '#'
 # url_poster: '#'
-# url_project: ''
+url_project: 'https://cacm.acm.org/magazines/2022/1/257452-technical-perspective-eyelid-gestures-enhance-mobile-interaction/abstract'
 # url_slides: ''
-# url_source: '#'
-url_video: ''
+url_source: 'https://cacm.acm.org/magazines/2022/1/257451-eyelid-gestures-for-people-with-motor-impairments/fulltext'
+url_video: 'https://www.youtube.com/watch?v=GgpW4tmvdM0'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Credit: Getty Images'
   focal_point: ''
   preview_only: false
 
@@ -75,6 +75,6 @@ image:
 # slides:
 ---
 
-<!-- {{< youtube f9lO9tin4tw >}} -->
+{{< youtube GgpW4tmvdM0 >}}
 
 

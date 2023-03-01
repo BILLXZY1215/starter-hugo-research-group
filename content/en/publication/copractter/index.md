@@ -41,17 +41,17 @@ featured: true
 
 
 url_pdf: https://www.mingmingfan.com/papers/CHI23-CoPractTer.pdf
-url_code: '#'
-url_dataset: '#'
+# url_code: ''
+# url_dataset: ''
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: ''
+# url_video: ''
 
 
 image:
-  caption: 'Caption of the image'
+  caption: ''
   focal_point: ''
   preview_only: false
 

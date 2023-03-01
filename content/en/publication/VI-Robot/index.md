@@ -21,7 +21,7 @@ author_notes:
   - 
   - 
   - Corresponding author
-date: '2022-11-11T00:00:00Z'
+date: '2023-02-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -64,12 +64,12 @@ url_pdf: 'https://www.mingmingfan.com/papers/CHI2023_Navigation_Robot_Autonomy.p
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
