@@ -12,8 +12,8 @@ superuser: false
 website: ""
 
 # Role/position
-role: Fall/22-
+role: MPhil Student <br> Fall/22-
 
 user_groups:
-  - MPhil Students
+  - Team
 ---

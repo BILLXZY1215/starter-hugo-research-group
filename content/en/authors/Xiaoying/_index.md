@@ -14,8 +14,8 @@ superuser: false
 website: "http://xiaoyingwei.com/"
 
 # Role/position
-role: Spring/22-
+role: Ph.D. Student <br> Spring/22-
 
 user_groups:
-  - Ph.D. Students
+  - Team
 ---

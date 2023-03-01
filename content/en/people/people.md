@@ -16,12 +16,7 @@ content:
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
-    - Principal Investigator
-    - Ph.D. Students
-    - <h6>As a Co-Supervisor or a Committee Member</h6>
-    - MPhil Students
-    - Research Assistant
-    - MS Students
+    - Team
     - Alumni
 design:
   show_interests: false

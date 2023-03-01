@@ -12,8 +12,8 @@ weight: 9
 superuser: false
 
 # Role/position
-role: Spring/23-
+role: Ph.D. Student <br> Spring/23-
 
 user_groups:
-  - Ph.D. Students
+  - Team
 ---
