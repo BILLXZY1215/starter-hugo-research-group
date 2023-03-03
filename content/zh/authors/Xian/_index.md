@@ -6,7 +6,7 @@ title: Xian Wang
 authors:
   - Xian Wang
 
-weight: 10
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ superuser: false
 website: "https://xiankulu.github.io/"
 
 # Role/position
-role: Ph.D. Student <br> Fall/21- <br> Co-supervise with [Dr. Pan Hui](https://www.cse.ust.hk/~panhui/)
+role: Ph.D. Student <br> Fall, 2021
 
 user_groups:
   - Team

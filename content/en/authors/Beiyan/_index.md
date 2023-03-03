@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Ph.D. Student <br> Spring/22- <br> Co-supervise with [Dr. Muzhi Zhou](https://facultyprofiles.hkust-gz.edu.cn/faculty-personal-page?id=937)
+role: Ph.D. Student <br> Spring, 2022
 
 user_groups:
   - Team

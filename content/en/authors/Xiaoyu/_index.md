@@ -6,7 +6,7 @@ title: Xiaoyu Mo
 authors:
   - Xiaoyu Mo
 
-weight: 10
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ superuser: false
 website: "https://sites.google.com/view/xiaoyu-mo/personal-web"
 
 # Role/position
-role: Ph.D. Student <br> Spring/22- <br> Co-supervise with [Dr. Bert Shi](https://seng.hkust.edu.hk/about/people/faculty/bertram-emil-shi), [Dr. Kevin Tam](https://iems.ust.hk/people/faculty-associates/kim-pong-tam)
+role: Ph.D. Student <br> Fall, 2020
 
 user_groups:
   - Team

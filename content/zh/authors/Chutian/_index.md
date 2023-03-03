@@ -14,7 +14,7 @@ superuser: false
 website: "https://www.chutianj.com/"
 
 # Role/position
-role: Ph.D. Student <br> Fall/22- <br> Co-supervise with [Dr. Hui Pan](https://www.cse.ust.hk/~panhui/)
+role: Ph.D. Student <br> Fall, 2022
 
 user_groups:
   - Team

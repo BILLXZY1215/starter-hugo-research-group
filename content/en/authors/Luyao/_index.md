@@ -6,13 +6,13 @@ title: Luyao Shen
 authors:
   - Luyao Shen
 
-weight: 12
+weight: 9
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Ph.D. Student <br> Fall/22- <br> Co-supervise with [Dr. Pan Hui](https://www.cse.ust.hk/~panhui/)
+role: Ph.D. Student <br> Fall, 2022
 
 user_groups:
   - Team

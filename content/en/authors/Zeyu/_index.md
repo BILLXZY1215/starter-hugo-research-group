@@ -12,7 +12,7 @@ superuser: false
 website: "https://www.zeyuxiong.com"
 
 # Role/position
-role: MPhil Student <br> Fall/22-
+role: MPhil Student <br> Fall, 2022
 
 user_groups:
   - Team

@@ -14,7 +14,7 @@ superuser: false
 website: "https://felicia35.github.io/"
 
 # Role/position
-role: Ph.D. Student <br> Fall/22-
+role: Ph.D. Student <br> Fall, 2022
 
 user_groups:
   - Team

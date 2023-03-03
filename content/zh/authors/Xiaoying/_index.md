@@ -14,7 +14,7 @@ superuser: false
 website: "http://xiaoyingwei.com/"
 
 # Role/position
-role: Ph.D. Student <br> Spring/22-
+role: Ph.D. Student <br> Spring, 2022
 
 user_groups:
   - Team

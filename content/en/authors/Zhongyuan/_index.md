@@ -6,7 +6,7 @@ title: Zhongyuan Liao
 authors:
   - Zhongyuan Liao
 
-weight: 11
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Ph.D. Student <br> Fall/21- <br> Co-supervise with [Dr. Yi Cai](https://www.mae.hkust.edu.hk/en/people/faculty/detail/cai-yi)
+role: Ph.D. Student <br> Fall, 2021
 
 user_groups:
   - Team

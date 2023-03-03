@@ -6,7 +6,7 @@ title: Xiaofu Jin
 authors:
   - Xiaofu Jin
 
-weight: 2
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ superuser: false
 website: "https://xiaofu-jin.github.io/"
 
 # Role/position
-role: Ph.D. Student <br> Fall/20- <br> Co-supervise with [Dr. Huamin Qu](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=huamin-qu-huamin)
+role: Ph.D. Student <br> Fall, 2020
 
 user_groups:
   - Team

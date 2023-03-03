@@ -12,7 +12,7 @@ superuser: false
 website: "https://klaraguan.github.io/"
 
 # Role/position
-role: Fall/22-
+role: Fall, 2022
 
 user_groups:
   - Research Assistant

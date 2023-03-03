@@ -12,7 +12,7 @@ weight: 9
 superuser: false
 
 # Role/position
-role: Ph.D. Student <br> Spring/23-
+role: Ph.D. Student <br> Spring, 2023
 
 user_groups:
   - Team
