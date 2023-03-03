@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Master's Student <br> RIT <br> Summer 2020--Spring 2022 <br> **Employment** --   University of Maryland, College Park <br> **Position** -- PhD Student
+role: 硕士 <br> 罗切斯特理工学院 <br> Summer 2020--Spring 2022 <br> **Employment** --   University of Maryland, College Park <br> **Position** -- PhD Student
 user_groups:
-  - Alumni
+  - 毕业生
 ---

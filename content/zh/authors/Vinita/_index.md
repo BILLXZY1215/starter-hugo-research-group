@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Master's Student <br> RIT <br> Fall 2019--Fall 2020 <br>  **Employment** --  Google <br> **Position** -- UX Researcher
+role: 硕士 <br> 罗切斯特理工学院 <br> Fall 2019--Fall 2020 <br>  **Employment** --  Google <br> **Position** -- UX Researcher
 user_groups:
-  - Alumni
+  - 毕业生
 ---

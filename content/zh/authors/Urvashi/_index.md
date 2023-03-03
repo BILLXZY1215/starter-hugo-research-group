@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Master's Student <br> Research Assistant <br> RIT <br> Spring 2021
+role: 硕士 <br> Research Assistant <br> 罗切斯特理工学院 <br> Spring 2021
 user_groups:
-  - Alumni
+  - 毕业生
 ---

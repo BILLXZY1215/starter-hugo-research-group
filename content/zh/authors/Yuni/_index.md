@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Master's Student <br> RIT <br> Spring 2020--Summer 2021 <br>  **Employment** -- a startup <br> **Position** -- Co-founder
+role: 硕士 <br> 罗切斯特理工学院 <br> Spring 2020--Summer 2021 <br>  **Employment** -- a startup <br> **Position** -- Co-founder
 user_groups:
-  - Alumni
+  - 毕业生
 ---

@@ -14,8 +14,8 @@ superuser: false
 website: "http://www.huoyuezaiyuan.cn/selfweb/"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2022
+role: 博士研究生 <br> Fall, 2022
 
 user_groups:
-  - Team
+  - 团队
 ---

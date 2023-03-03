@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Master's Student <br> RIT <br> Fall 2019--Spring 2020 <br>  **Employment** --  Microsoft <br> **Position** -- UX Designer
+role: 硕士 <br> 罗切斯特理工学院 <br> Fall 2019--Spring 2020 <br>  **Employment** --  Microsoft <br> **Position** -- UX Designer
 user_groups:
-  - Alumni
+  - 毕业生
 ---

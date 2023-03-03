@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: MPhil Student <br> HKUST <br> Spring/2021-Spring/2022 <br> **Employment** --  University of Toronto <br> **Position** -- PhD Student
+role: 硕士研究生 <br> HKUST <br> Spring/2021-Spring/2022 <br> **Employment** --  University of Toronto <br> **Position** -- PhD Student
 user_groups:
-  - Alumni
+  - 毕业生
 ---

@@ -6,7 +6,7 @@ title: Xiaoyu Mo
 authors:
   - Xiaoyu Mo
 
-weight: 1
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ superuser: false
 website: "https://sites.google.com/view/xiaoyu-mo/personal-web"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2020
+role: Ph.D. Student <br> Spring, 2022
 
 user_groups:
   - Team

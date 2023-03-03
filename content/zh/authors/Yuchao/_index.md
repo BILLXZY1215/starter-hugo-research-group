@@ -10,8 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: MPhil Student <br> Fall, 2022
+role: 硕士研究生 <br> Fall, 2022
 
 user_groups:
-  - Team
+  - 团队
 ---

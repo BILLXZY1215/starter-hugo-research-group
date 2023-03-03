@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Master's Student <br> Research Assistant <br> RIT <br> Fall 2020--Spring 2021 <br>  **Employment** --  Chatham Financial <br> **Position** -- UX Researcher
+role: 硕士 <br> Research Assistant <br> 罗切斯特理工学院 <br> Fall 2020--Spring 2021 <br>  **Employment** --  Chatham Financial <br> **Position** -- UX Researcher
 user_groups:
-  - Alumni
+  - 毕业生
 ---
