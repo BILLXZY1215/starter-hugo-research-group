@@ -9,6 +9,8 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+weight: 11
+
 website: "https://janetckm.github.io/"
 
 # Role/position

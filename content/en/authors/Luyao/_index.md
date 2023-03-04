@@ -12,7 +12,7 @@ weight: 8
 superuser: false
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2022
+role: Ph.D. Student (co-supervision) <br> Fall, 2022
 
 user_groups:
   - Team

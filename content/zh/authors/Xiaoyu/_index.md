@@ -14,7 +14,7 @@ superuser: false
 website: "https://sites.google.com/view/xiaoyu-mo/personal-web"
 
 # Role/position
-role: 博士研究生 <br> Spring, 2022
+role: 博士研究生 (共同执导)<br> Spring, 2022
 
 user_groups:
   - 团队

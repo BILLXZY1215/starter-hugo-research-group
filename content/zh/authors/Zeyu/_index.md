@@ -11,6 +11,8 @@ superuser: false
 
 website: "https://www.zeyuxiong.com"
 
+weight: 11
+
 # Role/position
 role: 硕士研究生 <br> Fall, 2022
 

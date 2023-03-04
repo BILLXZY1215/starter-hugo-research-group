@@ -14,7 +14,7 @@ superuser: false
 website: "https://xiankulu.github.io/"
 
 # Role/position
-role: 博士研究生 <br> Fall, 2021
+role: 博士研究生 (共同执导) <br> Fall, 2021
 
 user_groups:
   - 团队

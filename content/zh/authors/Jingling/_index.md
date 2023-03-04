@@ -1,20 +1,18 @@
 ---
 # Display name
-title: Ziyan Wang
+title: Jingling Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Ziyan Wang
+  - Jingling Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
-website: ""
-
-weight: 11
+weight: 12
 
 # Role/position
-role: MPhil Student <br> Fall, 2022
+role: 研究助理 <br> Fall, 2022
 
 user_groups:
   - Team
