@@ -24,7 +24,7 @@ publication_types: ['1']
 publication: The ACM CHI Conference on Human Factors in Computing Systems 2023
 publication_short: CHI 2023
 
-abstract: Understanding livestream platforms’ accessibility challenges for minority groups, such as people with disabilities, is critical to in- creasing the diversity and inclusion of those platforms. While prior work investigated the experiences of streamers with vision or mo- tor loss, little is known about the experiences of deaf or hard of hearing (DHH) streamers who must work with livestreaming plat- forms that heavily depend on audio. We conducted semi-structured interviews with DHH streamers to learn why they livestream, how they navigate livestream platforms and related challenges. Our findings revealed their desire to break the stereotypes towards the DHH groups via livestream and the intense interplay between interaction methods, such as sign language, texts, lip language, background music, and viewer characteristics. Major accessibility challenges include the lack of real-time captioning, the small sign language reading window, and misinterpretation of sign language. We present design considerations for improving the accessibility of the livestream platforms.
+abstract: 了解直播平台对少数群体（如残疾人）的无障碍挑战，对提高这些平台的多样性和包容性至关重要。虽然之前的工作调查了有视力或听力损失的流媒体人的经历，但对于必须使用严重依赖音频的直播平台的失聪或听力困难的流媒体人的经历所知甚少。我们对聋哑人流媒体人进行了半结构化的采访，以了解他们为什么要进行直播，他们如何浏览直播平台以及相关的挑战。我们的研究结果显示，他们希望通过直播打破对DHH群体的刻板印象，以及手语、文字、唇语、背景音乐和观众特征等互动方式之间的激烈互动。主要的无障碍挑战包括缺乏实时字幕，手语阅读窗口小，以及手语的误读。我们提出了改善直播平台无障碍性的设计考虑。
 
 # Summary. An optional shortened abstract.
 summary:
@@ -32,10 +32,10 @@ summary:
 keywords: deaf or hard of hearing (DHH), livestreaming, accessibility, social media/online communities
 
 tags:
-  - deaf or hard of hearing (DHH)
-  - livestreaming
-  - accessibility
-  - social media/online communities
+  - 聋哑人
+  - 直播
+  - 无障碍
+  - 社交媒体/线上社群
 featured: true
 
 links:
