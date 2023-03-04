@@ -39,25 +39,25 @@ summary: An optional shortened abstract
 keywords: inter-generational communication, generational gap, VR, virtual reality, aging, older adults, grandparents, grandchildren
 
 tags:
-  - Aging
-  - VR
-  - Family
-  - Field Study
+  - 老龄化
+  - 虚拟现实
+  - 家庭
+  - 田野调查
 featured: true
 
 
-url_pdf: '#'
-url_code: '#'
-url_dataset: '#'
+url_pdf: 'https://www.mingmingfan.com/papers/CHI23-bridge-gap.pdf'
+# url_code: '#'
+# url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_video: '#'
+# url_video: '#'
 
 
 image:
-  caption: 'Caption of the image'
+  caption: ''
   focal_point: ''
   preview_only: false
 
