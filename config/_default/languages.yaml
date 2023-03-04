@@ -20,7 +20,7 @@ zh:
       - name: 关于
         url: "#about"
         weight: 1
-      - name: 人员
+      - name: 团队
         url: people
         weight: 30
       - name: 出版物

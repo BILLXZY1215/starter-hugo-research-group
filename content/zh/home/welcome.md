@@ -21,19 +21,31 @@ design:
 <br>
 
 <div style="text-align: center; ">
-<strong>Make Computing More Accessible and Usable to Everyone</strong>
+<strong>让计算机技术更加普及和易用</strong>
 </div>
 
 <br>
 
+只有当计算机技术对每个人都是可及且易用时，它才会赋予人们更多的力量。否则，计算机技术的进步将只惠及那些有特权获得它的人，从而导致网络世界不平等的加剧。因此，我们现在面临的一个挑战是：如何让计算机技术更加普及和易用，让每个人都能受益？
+
+欢迎来到APEX研究组！在[范明明教授](https://www.mingmingfan.com/)的带领下，我们从以下三个方面着手解决这一问题：
+
+- 了解**无障碍问题**，并创建新颖的**辅助技术**，特别针对为 _老年人_ 和 _残障人士_服务；
+
+- 探索新的**计算用户体验（UX）方法**，通过将人类智慧与计算相结合，从而更好地检测、理解和解决UX问题；
+
+- 通过创建多感官体验和新的交互技术，使**虚拟现实VR/增强现实AR/元宇宙Metaverse**更易于访问。
+
+APEX研究组的研究成果在人机交互（HCI）和无障碍领域的顶级会议，如ACM CHI、ACM UbiComp和ACM ASSETS等会议上，荣获了最佳论文奖、最佳论文提名奖和最佳工件奖。
+
 <div style="display: flex; justify-content: center">
 
 <div style="margin: 10px">
-{{% cta cta_link="./about/" cta_text="About →" %}}
+{{% cta cta_link="./about/" cta_text="关于 →" %}}
 </div>
 
 <div style="margin: 10px">
-{{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+{{% cta cta_link="./people/" cta_text="团队 →" %}}
 </div>
 
 </div>
