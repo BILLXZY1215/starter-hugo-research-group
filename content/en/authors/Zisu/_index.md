@@ -6,7 +6,7 @@ title: Zisu Li
 authors:
   - Zisu Li
 
-weight: 4
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false

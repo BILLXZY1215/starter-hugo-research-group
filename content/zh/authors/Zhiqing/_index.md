@@ -6,7 +6,7 @@ title: Zhiqing Wu
 authors:
   - Zhiqing Wu
 
-weight: 9
+weight: 5
 
 # Is this the primary user of the site?
 superuser: false

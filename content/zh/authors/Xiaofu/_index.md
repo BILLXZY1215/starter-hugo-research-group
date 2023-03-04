@@ -6,7 +6,7 @@ title: Xiaofu Jin
 authors:
   - Xiaofu Jin
 
-weight: 1
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false

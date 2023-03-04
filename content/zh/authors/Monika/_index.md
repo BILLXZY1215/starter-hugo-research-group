@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: 硕士 <br> 罗切斯特理工学院 <br> Summer 2020--Fall 2021 <br>
+role: 硕士 <br> RIT <br> Summer 2020--Fall 2021 <br>
 user_groups:
   - 毕业生
 ---

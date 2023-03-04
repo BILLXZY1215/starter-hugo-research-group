@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: 硕士 <br> 罗切斯特理工学院 <br> Summer 2021--Spring 2022 <br> **Employment** --   DJI <br> **Position** -- UX Designer (HMI)
+role: 硕士 <br> RIT <br> Summer 2021--Spring 2022 <br> **Employment** --   DJI <br> **Position** -- UX Designer (HMI)
 user_groups:
   - 毕业生
 ---

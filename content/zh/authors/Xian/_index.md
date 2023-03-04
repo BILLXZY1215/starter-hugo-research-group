@@ -6,7 +6,7 @@ title: Xian Wang
 authors:
   - Xian Wang
 
-weight: 2
+weight: 6
 
 # Is this the primary user of the site?
 superuser: false
