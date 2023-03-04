@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: 硕士 <br> 罗切斯特理工学院 <br> Fall 2019--Fall 2020 <br>  **Employment** --  Yimu International Inc. <br> **Position** -- UX/UI Designer
+role: 硕士 <br> RIT <br> Fall 2019--Fall 2020 <br>  **Employment** --  Yimu International Inc. <br> **Position** -- UX/UI Designer
 user_groups:
   - 毕业生
 ---

@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: 硕士 <br> 罗切斯特理工学院 <br> Fall 2020--Summer 2021 <br>  **Employment** -- Sohu <br> **Position** -- UX Researcher/Designer
+role: 硕士 <br> RIT <br> Fall 2020--Summer 2021 <br>  **Employment** -- Sohu <br> **Position** -- UX Researcher/Designer
 user_groups:
   - 毕业生
 ---

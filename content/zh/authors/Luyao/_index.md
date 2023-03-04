@@ -6,7 +6,7 @@ title: Luyao Shen
 authors:
   - Luyao Shen
 
-weight: 9
+weight: 8
 
 # Is this the primary user of the site?
 superuser: false

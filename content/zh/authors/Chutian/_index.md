@@ -6,7 +6,7 @@ title: Chutian Jiang
 authors:
   - Chutian Jiang
 
-weight: 8
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false
