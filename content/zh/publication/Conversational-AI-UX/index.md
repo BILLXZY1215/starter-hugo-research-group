@@ -26,7 +26,7 @@ publication_types: ['3', '4']
 publication: The ACM CHI Conference on Human Factors in Computing Systems 2023
 publication_short: CHI 2023
 
-abstract: 'AI is promising in assisting UX evaluators with analyzing usability tests, but its judgments are typically presented as non-interactive visualizations. Evaluators may have questions about test recordings, but have no way of asking them. Interactive conversational assistants provide a Q&A dynamic that may improve analysis efficiency and evaluator autonomy. To understand the full range of analysisrelated questions, we conducted a Wizard-of-Oz design probe study with 20 participants who interacted with simulated AI assistants via text or voice. We found that participants asked for five categories of information: user actions, user mental model, help from the AI assistant, product and task information, and user demographics. Those who used the text assistant asked more questions, but the question lengths were similar. The text assistant was perceived as significantly more efficient, but both were rated equally in satisfaction and trust. We also provide design considerations for future conversational AI assistants for UX evaluation.'
+abstract: '近期研究表明人工智能（AI）能够一定程度上帮助用户体验评估师(UX evaluators)更好地分析可用性测试(usability testing)。然而，AI给出的推断往往以一种非交互式的可视化形式呈现给用户体验评估师。评估师可能对AI提供的分析判断有疑惑，但却无法进一步地问询AI。交互式对话助理（interactive conversational assistants）提供了一个动态问询AI的机会，有潜力帮助提高分析效率和评估师的主观能动性。为了了解如何设计一个高效地交互式对话助理，我们进行了一项Wizard of Oz的设计探针（design probe）研究，邀请了20名用户体验分析相关人员通过文本或语音与模拟的人工智能助理进行交互。通过对参与者提出的问题的内容和方式进行分析，我们发现提出的问题大致询问五个类别的信息：用户行为、用户心理模型、人工智能助理提供的帮助、产品和任务信息以及用户人口统计学信息。同时，使用文本人工智能助理的人询问的问题比使用语音人工智能助理的多，但是两者提出的问题的长度相似。文本助理被认为是更加有效率的，但两者在满意度和信任度方面的评价相同。我们还提供了未来用户体验评估的会话式人工智能助理的设计准则与导引。'
 
 # Summary. An optional shortened abstract.
 summary: An optional shortened abstract
@@ -34,10 +34,10 @@ summary: An optional shortened abstract
 keywords: User experience, Usability testing, Human-AI collaboration, Conversational assistants
 
 tags:
-  - User experience
-  - Usability testing
-  - Human-AI collaboration
-  - Conversational assistants
+  - 用户体验
+  - 可用性测试
+  - 人工智能协作
+  - 对话助手
 featured: true
 
 
@@ -52,7 +52,7 @@ url_pdf: 'https://www.mingmingfan.com/papers/CHI23_UX_Design_Probe.pdf'
 
 
 image:
-  caption: 'The user interface of the text assistant which contains a video player, chat bubble, and chat thread.'
+  caption: '文本助理的用户界面，其中包含视频播放器、聊天气泡和聊天线程。'
   focal_point: ''
   preview_only: false
 
