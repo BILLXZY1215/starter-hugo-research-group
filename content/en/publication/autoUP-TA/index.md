@@ -1,21 +1,21 @@
 ---
 title: 'Automatic Detection of Usability Problem Encounters in Think-Aloud Sessions'
 authors:
-  - Emily Kuang
-  - Xiaofu Jin
   - Mingming Fan
+  - Yue Li
+  - Khai N. Truong
 author_notes:
   - 
   - 
-  - Corresponding author
-date: '2022-04-29T00:00:00Z'
+  - 
+date: '2020-05-29T00:00:00Z'
 doi: '10.1145/3491102.3517647'
 
 # No need to change the publishDate 
 publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type: 
-# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  7 = Thesis; 8 = Patent
+# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.

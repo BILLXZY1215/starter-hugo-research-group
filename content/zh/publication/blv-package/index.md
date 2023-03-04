@@ -8,7 +8,7 @@ author_notes:
   - 
   - Corresponding author
   - 
-date: '2022-11-11T00:00:00Z'
+date: '2022-05-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: CHI 2022
+publication: The ACM CHI Conference on Human Factors in Computing Systems 2022
 publication_short: CHI 2022
 
 abstract: With about 230 million packages delivered per day in 2020, fetching packages has become a routine for many city dwellers in China. When fetching packages, people usually need to go to collection sites of their apartment complexes or a KuaiDiGui, an increasingly popular type of self-service package pickup machine. However, little is known whether such processes are accessible to blind and low vision (BLV) city dwellers. We interviewed BLV people (N=20) living in a large metropolitan area in China to understand their practices and challenges of fetching packages. Our findings show that participants encountered difficulties in finding the collection site and localizing and recognizing their packages. When fetching packages from KuaiDiGuis, they had difficulty in identifying the correct KuaiDiGui, interacting with its touch screen, navigating the complex on-screen workflow, and opening the target compartment. We discuss design considerations to make the package fetching process more accessible to the BLV community.

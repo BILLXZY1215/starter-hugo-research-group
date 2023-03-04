@@ -8,8 +8,8 @@ author_notes:
   - 
   - 
   - 
-date: '2020-02-11T00:00:00Z'
-doi: '10.1145/3544548.3581247'
+date: '2020-08-11T00:00:00Z'
+doi: '10.1109/TVCG.2020.3018724'
 
 # No need to change the publishDate 
 publishDate: '2017-01-01T00:00:00Z'

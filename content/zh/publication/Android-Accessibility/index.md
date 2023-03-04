@@ -14,7 +14,7 @@ author_notes:
   -
   -
   -
-date: '2022-11-11T00:00:00Z'
+date: '2021-08-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -36,10 +36,10 @@ summary:
 keywords: Mobile Accessibility, Empirical Study, Automated Accessibility Testing, Android App, Xbot
 
 tags:
-  - Mobile Accessibility
-  - Empirical Study
-  - Automated Accessibility Testing
-  - Android App
+  - 移动端无障碍
+  - 实证研究
+  - 自动化无障碍测试
+  - 安卓应用
   - Xbot
 featured: false
 

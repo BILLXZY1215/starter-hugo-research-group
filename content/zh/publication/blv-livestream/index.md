@@ -10,7 +10,7 @@ author_notes:
   - 
   - Corresponding author
   - Corresponding author
-date: '2022-11-11T00:00:00Z'
+date: '2022-05-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -39,7 +39,7 @@ tags:
   - Individuals with Disabilities & Assistive Technologies
   - Social Media/Online Communities
   - Interview
-featured: true
+featured: false
 
 links:
   # - name: Custom Link

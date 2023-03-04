@@ -10,7 +10,7 @@ author_notes:
   - 
   -
   -
-date: '2021-11-11T00:00:00Z'
+date: '2021-05-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -32,13 +32,13 @@ summary:
 keywords: Assistive technology, Accessibility, People with disabilities, Qualitative study, Interview, China, Misperceptions
 
 tags:
-  - Assistive technology
-  - Accessibility
-  - People with disabilities
-  - Qualitative study
-  - Interview
-  - China
-  - Misperceptions
+  - 辅助科技
+  - 无障碍
+  - 残障人士
+  - 定性实验
+  - 采访
+  - 中国
+  - 误解
 featured: false
 
 links:

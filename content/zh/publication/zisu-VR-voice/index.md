@@ -3,11 +3,11 @@ title: Enabling Voice-Accompanying Hand-to-Face Gesture Recognition with Cross-D
 authors:
   - Zisu Li
   - Chen Liang
+  - Yuntao Wang
   - Yue Qin
+  - Chun Yu
   - Yukang Yan
   - Mingming Fan
-  - Yuntao Wang
-  - Chun Yu
   - Yuanchun Shi
 author_notes:
   - 
