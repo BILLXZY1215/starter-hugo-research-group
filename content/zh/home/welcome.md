@@ -38,13 +38,16 @@ design:
 
 APEX研究组的研究成果在人机交互（HCI）和无障碍领域的顶级会议，如ACM CHI、ACM UbiComp和ACM ASSETS等会议上，荣获了最佳论文奖、最佳论文提名奖和最佳工件奖。
 
+<img src="../home/QR.jpg" width = 50% style=" margin-left: auto; margin-right: auto; align: center">
+<!-- ![This is an image](../home/QR.jpg) -->
+
 <div style="display: flex; justify-content: center">
 
-<div style="margin: 10px">
+<!-- <div style="margin: 10px">
 {{% cta cta_link="./about/" cta_text="关于 →" %}}
-</div>
+</div> -->
 
-<div style="margin: 10px">
+<div style="margin: 20px">
 {{% cta cta_link="./people/" cta_text="团队 →" %}}
 </div>
 
