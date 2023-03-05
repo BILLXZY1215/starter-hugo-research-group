@@ -24,7 +24,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: International Journal of Human-Computer Interaction
-publication_short: IJHCI 
+publication_short: IJHCI 2022
 
 abstract: Older adults have been hit disproportionally hard by the COVID-19 pandemic. One critical way for older adults to minimize the negative impact of COVID-19 and future pandemics is to stay informed about its latest information, which has been increasingly presented through online interactive visualizations (e.g., live dashboards and websites). Thus, it is imperative to understand how older adults interact with and comprehend online COVID-19 interactive visualizations and what challenges they might encounter to make such visualizations more accessible to older adults. We adopted a user-centered approach by inviting older adults to interact with COVID-19 interactive visualizations while at the same time verbalizing their thought processes using a think-aloud protocol. By analyzing their think-aloud verbalizations, we identified four types of thought processes representing how older adults comprehended the visualizations and uncovered the challenges they encountered. Furthermore, we also identified the challenges they encountered with seven common types of interaction techniques adopted by the visualizations. Based on the findings, we present design guidelines for making interactive visualizations more accessible to older adults.
 

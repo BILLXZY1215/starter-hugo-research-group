@@ -8,14 +8,14 @@ author_notes:
   - 
   - 
   - 
-date: '2020-08-11T00:00:00Z'
+date: '2021-05-09T00:00:00Z'
 doi: '10.1109/TVCG.2020.3018724'
 
 # No need to change the publishDate 
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-05-09T00:00:00Z'
 
 # Publication type: 
-# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  7 = Thesis; 8 = Patent
+# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing; 
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.

@@ -10,14 +10,14 @@ author_notes:
   - 
   -
   -
-date: '2019-11-11T00:00:00Z'
+date: '2019-04-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2019-04-27T00:00:00Z'
 
 # Publication type: 
-# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  7 = Thesis; 8 = Patent
+# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing; 
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
