@@ -12,9 +12,9 @@ en:
 zh:
   languageCode: zh-Hans
   contentDir: content/zh
-  title: Chinese website title...
+  title: APEX, HKUST(GZ) & HKUST
   params:
-    description: Site description in Chinese...
+    description: 
   menu:
     main:
       - name: 关于
