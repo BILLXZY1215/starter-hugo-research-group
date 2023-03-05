@@ -12,7 +12,7 @@ weight: 8
 superuser: false
 
 # Role/position
-role: 博士研究生 <br> Fall, 2022
+role: 博士研究生 (共同执导) <br> Fall, 2022
 
 user_groups:
   - 团队

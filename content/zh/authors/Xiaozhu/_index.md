@@ -6,7 +6,7 @@ title: Xiaozhu Hu
 authors:
   - Xiaozhu Hu
 
-weight: 8
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false

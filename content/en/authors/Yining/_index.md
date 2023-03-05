@@ -11,6 +11,8 @@ superuser: false
 
 website: ""
 
+weight: 11
+
 # Role/position
 role: MPhil Student <br> Fall, 2022
 

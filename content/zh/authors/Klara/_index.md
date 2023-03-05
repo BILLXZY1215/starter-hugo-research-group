@@ -11,9 +11,11 @@ superuser: false
 
 website: "https://klaraguan.github.io/"
 
+weight: 12
+
 # Role/position
-role: Fall, 2022
+role: 研究助理 <br> Fall, 2022
 
 user_groups:
-  - Research Assistant
+  - 团队
 ---

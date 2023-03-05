@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2021
+role: Ph.D. Student (co-supervision) <br> Fall, 2021
 
 user_groups:
   - Team
