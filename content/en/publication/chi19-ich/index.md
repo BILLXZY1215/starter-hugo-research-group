@@ -76,6 +76,8 @@ image:
 # slides:
 ---
 
+<i class="fa-solid fa-trophy"> </i> Best Paper Award
+
 <!-- {{< youtube f9lO9tin4tw >}} -->
 
 
