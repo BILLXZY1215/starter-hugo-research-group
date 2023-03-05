@@ -38,13 +38,15 @@ Welcome to APEX group! Leading by [Prof. Mingming Fan](https://www.mingmingfan.c
 
 APEX group's research won Best Paper Award, Best Paper Honorable Mention Award, and Best Artifact Award from top-tier venues in the fields of Human-Computer Interaction (HCI) and Accessibility, such as ACM CHI, ACM UbiComp, and ACM ASSETS.
 
+<img src="../home/QR.jpg" width = 50% style=" margin-left: auto; margin-right: auto; align: center">
+
 <div style="display: flex; justify-content: center">
 
 <!-- <div style="margin: 10px">
 {{% cta cta_link="./about/" cta_text="About →" %}}
 </div> -->
 
-<div style="margin: 10px">
+<div style="margin: 20px">
 {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
 </div>
 

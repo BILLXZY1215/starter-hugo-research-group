@@ -41,6 +41,7 @@ APEX研究组的研究成果在人机交互（HCI）和无障碍领域的顶级�
 <img src="../home/QR.jpg" width = 50% style=" margin-left: auto; margin-right: auto; align: center">
 <!-- ![This is an image](../home/QR.jpg) -->
 
+
 <div style="display: flex; justify-content: center">
 
 <!-- <div style="margin: 10px">
