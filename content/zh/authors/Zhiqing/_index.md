@@ -11,6 +11,8 @@ weight: 5
 # Is this the primary user of the site?
 superuser: false
 
+website: "https://zhiqingw.github.io/"
+
 # Role/position
 role: 博士研究生 <br> Spring, 2023
 
