@@ -1,22 +1,22 @@
 ---
 title: " 'I Don't Want People to Look At Me Differently': Designing User-Defined Above-the-Neck Gestures for People with Upper Body Motor Impairments"
 authors:
-  - Wentao Lei
+  - Xuan Zhao
   - Mingming Fan
-  - Juliann Thang
+  - Teng Han
 author_notes:
-  - 
+  -
   - Corresponding author
-  - 
-date: '2022-03-13T00:00:00Z'
-doi: ''
+  -
+date: "2022-03-13T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-03-13T00:00:00Z'
+publishDate: "2022-03-13T00:00:00Z"
 
-# Publication type: 
-# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing; 
-publication_types: ['1']
+# Publication type:
+# 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: CHI 2022
@@ -43,7 +43,7 @@ featured: true
 links:
   # - name: Custom Link
   #   url: http://example.org
-url_pdf: 'https://www.mingmingfan.com/papers/chi22_243_BLV_KuaiDiGui.pdf'
+url_pdf: "https://www.mingmingfan.com/papers/chi22_243_BLV_KuaiDiGui.pdf"
 # [Download file](./Typist.pdf)
 # url_code: '#'
 # url_dataset: '#'
@@ -56,10 +56,9 @@ url_pdf: 'https://www.mingmingfan.com/papers/chi22_243_BLV_KuaiDiGui.pdf'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -77,5 +76,3 @@ image:
 ---
 
 <!-- {{< youtube f9lO9tin4tw >}} -->
-
-
