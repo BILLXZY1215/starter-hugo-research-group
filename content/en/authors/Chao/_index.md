@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Xian Wang
+title: Chao Liu
 
 # Username (this should match the folder name)
 authors:
-  - Xian Wang
+  - Chao Liu
 
-weight: 7
+weight: 6
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://xiankulu.github.io/"
+website: ""
 
 # Role/position
-role: 博士研究生 (共同执导) <br> Fall, 2021
+role: Ph.D. Student <br> Fall, 2023
 
 user_groups:
-  - 团队
+  - Team
 ---

@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Xian Wang
+title: Zhongyue Zhang
 
 # Username (this should match the folder name)
 authors:
-  - Xian Wang
+  - Zhongyue Zhang
 
-weight: 7
+weight: 6
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://xiankulu.github.io/"
+website: "https://www.sherleyzhang.com/"
 
 # Role/position
-role: 博士研究生 (共同执导) <br> Fall, 2021
+role: 博士研究生 <br> Fall, 2023
 
 user_groups:
   - 团队
