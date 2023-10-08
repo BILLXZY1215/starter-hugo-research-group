@@ -11,10 +11,10 @@ superuser: false
 
 website: ""
 
-weight: 11
+weight: 6
 
 # Role/position
-role: MPhil Student <br> Fall, 2022
+role: Ph.D. Student <br> Fall, 2023
 
 user_groups:
   - Team

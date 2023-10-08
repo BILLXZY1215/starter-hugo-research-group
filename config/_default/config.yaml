@@ -71,3 +71,8 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+security:
+  funcs:
+    getenv:
+      - ^HUGO_
+      - ^WC_

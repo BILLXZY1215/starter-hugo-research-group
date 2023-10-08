@@ -11,10 +11,10 @@ superuser: false
 
 website: ""
 
-weight: 11
+weight: 6
 
 # Role/position
-role: 硕士研究生 <br> Fall, 2022
+role: 博士研究生 <br> Fall, 2023
 
 user_groups:
   - 团队
