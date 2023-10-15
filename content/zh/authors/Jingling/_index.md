@@ -12,8 +12,8 @@ superuser: false
 weight: 12
 
 # Role/position
-role: 研究助理 <br> Fall, 2022
+role: 硕士研究生 <br> Fall, 2023
 
 user_groups:
-  - Team
+  - 团队
 ---

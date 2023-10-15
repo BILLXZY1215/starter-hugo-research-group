@@ -14,8 +14,8 @@ website: "https://klaraguan.github.io/"
 weight: 12
 
 # Role/position
-role: 研究助理 <br> Fall, 2022
+role: 研究助理 <br> Fall 2022--Fall 2023 <br>  **Employment** --  UTAustin <br> **Position** -- PhD Student
 
 user_groups:
-  - 团队
+  - 毕业生
 ---
