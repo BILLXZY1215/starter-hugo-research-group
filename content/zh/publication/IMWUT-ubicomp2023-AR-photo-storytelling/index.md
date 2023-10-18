@@ -50,7 +50,7 @@ url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3610903"
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-# url_video: "https://youtu.be/kSv-HOeTIkc"
+# url_video: 'https://youtu.be/kSv-HOeTIkc'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
