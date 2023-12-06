@@ -6,7 +6,7 @@ title: Xian Wang
 authors:
   - Xian Wang
 
-weight: 7
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,8 +14,8 @@ superuser: false
 website: "https://xiankulu.github.io/"
 
 # Role/position
-role: Ph.D. Student (co-supervision) <br> Fall, 2021
+role: MPhil Student <br> HKUST <br> Fall/2021-Fall/2023 <br>
 
 user_groups:
-  - Team
+  - Alumni
 ---
