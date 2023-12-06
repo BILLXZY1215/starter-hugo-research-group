@@ -6,7 +6,7 @@ title: Luyao Shen
 authors:
   - Luyao Shen
 
-weight: 8
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ superuser: false
 website: "https://yaoyashen.github.io/"
 
 # Role/position
-role: Ph.D. Student (co-supervision) <br> Fall, 2022
+role: Ph.D. Student <br> Fall, 2022
 
 user_groups:
   - Team
