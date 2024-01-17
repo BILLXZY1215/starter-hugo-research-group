@@ -11,10 +11,10 @@ superuser: false
 
 website: "https://www.szhangremi.com/"
 
-weight: 11
+weight: 7
 
 # Role/position
-role: MPhil Student <br> Fall, 2022
+role: Ph.D. Student (co-supervision) <br> Spring, 2024
 
 user_groups:
   - Team
