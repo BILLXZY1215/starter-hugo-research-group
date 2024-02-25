@@ -1,5 +1,5 @@
 ---
-title: 'CoPracTter: Toward Integrating Personalized Practice Scenarios, Timely Feedback and Social Support into An Online Support Tool for Coping with Stuttering in China'
+title: 'CoPrompt: Supporting Prompt Sharing and Referring in Collaborative Natural Language Programming'
 authors:
   - Li Feng
   - Ryan Yen
@@ -13,7 +13,7 @@ author_notes:
   -
   -
   -
-  - Corresponding author
+  - 
 date: '2024-02-22T00:00:00Z'
 doi: ''
 
@@ -41,7 +41,7 @@ tags:
 featured: true
 
 
-url_pdf:
+url_pdf: https://www.mingmingfan.com/papers/CHI24_CoPrompt.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: '#'
