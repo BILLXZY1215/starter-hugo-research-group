@@ -3,6 +3,7 @@ title: 'To Reach the Unreachable: Exploring the Potential of VR Hand Redirection
 authors:
   - Peixuan Xiong
   - Yukai Zhang
+  - Nandi Zhang
   - Shihan Fu
   - Xin Li
   - Yadan Zheng

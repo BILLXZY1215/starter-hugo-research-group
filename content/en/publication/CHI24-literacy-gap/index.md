@@ -19,7 +19,7 @@ publishDate: '2024-02-04T00:00:00Z'
 
 # Publication type: 
 # 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing;  7 = Thesis; 8 = Patent
-publication_types: ['3']
+publication_types: ['1']
 # 2
 
 # Publication name and optional abbreviated publication name.

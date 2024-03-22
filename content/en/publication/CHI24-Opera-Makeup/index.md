@@ -42,7 +42,7 @@ tags:
 featured: true
 
 
-url_pdf: https://www.mingmingfan.com/papers/CHI24_UX_Proactive_Assistant.pdf
+url_pdf: https://www.mingmingfan.com/papers/CHI24-Xiqu.pdf
 # url_code: ''
 # url_dataset: ''
 # url_poster: '#'
