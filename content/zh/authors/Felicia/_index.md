@@ -6,7 +6,7 @@ title: Li (Felicia) Feng
 authors:
   - Li (Felicia) Feng
 
-weight: 4
+weight: 11
 
 # Is this the primary user of the site?
 superuser: false
@@ -14,7 +14,7 @@ superuser: false
 website: "https://felicia35.github.io/"
 
 # Role/position
-role: 博士研究生 <br> Fall, 2022
+role: 硕士研究生 <br> Fall, 2022
 
 user_groups:
   - 团队
