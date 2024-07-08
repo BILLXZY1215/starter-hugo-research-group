@@ -16,7 +16,7 @@ date: '2024-5-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-5-16T00:00:00Z'
+publishDate: '2024-05-16T00:00:00Z'
 
 # Publication type: 
 # 0 = Uncategorized; 1 = Accessibility & Aging; 2 = VR/AR/Metaverse; 3 = Human-AI Collaboration; 4 = UX Methodology; 5 = Social Computing; 6 = Sensing; 
