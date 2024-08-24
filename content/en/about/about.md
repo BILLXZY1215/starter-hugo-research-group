@@ -12,17 +12,17 @@ design:
   # view: showcase
 ---
 
-Computing empowers people, ONLY when it is accessible and usable to them. Otherwise, the advancement of computing continues to benefit those who are priviliged to have access to it and lead to increased digital inequality. Thus, one fundemental challenge we are confronting now is: How To Make Computing More Accessible and Usable To Everyone?
+AI and computing technologies have been changing people’s lives at unprecedented speed. It is important to “get the right design” and “get the design right” when designing AI- and computing-powered systems that humans ultimately use so that everyone can benefit from computing.  
 
-Welcome to APEX group! Leading by [Prof. Mingming Fan](https://www.mingmingfan.com/), we approach this fundemental challenge from three aspects:
+Led by [Prof. Mingming Fan](https://www.mingmingfan.com/), APEX group conducts research at the intersection of Human-Computer Interaction (HCI), AI and VR/AR/MR with three foci: 
 
-- Understanding **Accessibility Challenges** and Creating novel **Assistive Technology**, especially for _Older Adults_ and _People with Disabilities_;
+- **Assistive Technology (AT):** to empower older adults and people with disabilities 
 
-- Exploring Novel **Computational User Experience (UX) Methods** to better Detect, Understand and Resolve UX Problems by Augmenting Human Intelligence with Computation;
+- **Human-AI Collaboration:** to understand human-AI collaboration dynamics via scientific studies and to create novel human-AI collaboration systems. 
 
-- Making **VR/AR/Metaverse** More Accessible by Creating Multi-Sensory Experiences and Novel Interaction Techniques.
+- **VR/AR/MR:** to create novel VR/AR/MR interaction techniques and applications, for aging, accessibility and learning/education purposes.
 
-APEX group's research won Best Paper Award, Best Paper Honorable Mention Award, and Best Artifact Award from top-tier venues in the fields of Human-Computer Interaction (HCI) and Accessibility, such as ACM CHI, ACM UbiComp, and ACM ASSETS.
+Our group’s work has been published at top-tier venues of human-computer interaction (HCI). We have won Best Paper Honorable Mention Awards (4 times) and Best Paper Award from ACM CHI, Best Paper Honorable Mention Awards from UbiComp, Best Artifact Awad from ACM ASSETS, and Best Paper Honorable Mention Awards from Chinese CHI (2 times). 
 
 Next, we present example projects to illustrate our research under each theme:
 
