@@ -9,10 +9,10 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
-weight: 11
+weight: 8
 
 # Role/position
-role: MPhil Student <br> Fall, 2022
+role: Ph.D. Student <br> (with Prof. Kewei Xu) <br> Fall, 2024
 
 user_groups:
   - Team

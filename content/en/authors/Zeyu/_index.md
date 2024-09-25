@@ -11,11 +11,11 @@ superuser: false
 
 website: "https://www.zeyuxiong.com"
 
-weight: 11
+weight: 1
 
 # Role/position
 role: MPhil Student <br> Fall, 2022
 
 user_groups:
-  - Team
+  - Alumni
 ---

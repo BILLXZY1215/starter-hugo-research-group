@@ -14,7 +14,7 @@ superuser: false
 website: "http://www.huoyuezaiyuan.cn/selfweb/"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2022
+role: Ph.D. Student (Co-supervision) <br> (with Prof. Tristan braud) <br> Fall, 2022
 
 user_groups:
   - Team

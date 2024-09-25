@@ -6,7 +6,7 @@ title: Zhiyi Rong
 authors:
   - Zhiyi Rong
 
-weight: 1
+weight: 3
 
 # Is this the primary user of the site?
 superuser: false

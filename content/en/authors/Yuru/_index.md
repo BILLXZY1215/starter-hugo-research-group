@@ -14,7 +14,7 @@ website: ""
 weight: 6
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2023
+role: Ph.D. Student <br> (with Prof. Yun Hou) <br> Fall, 2023
 
 user_groups:
   - Team

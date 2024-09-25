@@ -6,7 +6,7 @@ title: Zhongyuan Liao
 authors:
   - Zhongyuan Liao
 
-weight: 9
+weight: 1
 
 # Is this the primary user of the site?
 superuser: false
@@ -17,5 +17,5 @@ website: ""
 role: Ph.D. Student (co-supervision) <br> Fall, 2021
 
 user_groups:
-  - Team
+  - Alumni
 ---

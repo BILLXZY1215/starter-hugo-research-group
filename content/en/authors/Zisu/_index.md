@@ -14,7 +14,7 @@ superuser: false
 website: "https://vespersue.github.io/"
 
 # Role/position
-role: Ph.D. Student <br> Spring, 2022
+role: Ph.D. Student <br> (with Prof.  Xiaojuan Ma) <br> Spring, 2022
 
 user_groups:
   - Team

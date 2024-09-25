@@ -14,7 +14,7 @@ superuser: false
 website: "https://www.duotun-wang.co.uk/"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2023
+role: Ph.D. Student <br> (with Prof. Zeyu Wang) <br> Fall, 2023
 
 user_groups:
   - Team

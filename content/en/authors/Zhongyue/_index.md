@@ -14,7 +14,7 @@ superuser: false
 website: "https://www.sherleyzhang.com/"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2023
+role: Ph.D. Student <br> (with Prof. Xu Zhang) <br> Fall, 2023
 
 user_groups:
   - Team

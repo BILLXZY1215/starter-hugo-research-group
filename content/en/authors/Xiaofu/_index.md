@@ -14,7 +14,7 @@ superuser: false
 website: "https://xiaofu-jin.github.io/"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2020
+role: Ph.D. Student <br> (with Prof. Huamin Qu) <br> Fall, 2020
 
 user_groups:
   - Team

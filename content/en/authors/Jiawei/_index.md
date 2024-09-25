@@ -12,7 +12,7 @@ superuser: false
 weight: 13
 
 # Role/position
-role: Research Assistant
+role: MPhil Student <br> Fall, 2024
 
 user_groups:
   - Team

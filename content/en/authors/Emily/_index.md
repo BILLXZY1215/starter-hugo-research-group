@@ -14,7 +14,7 @@ superuser: false
 website: "https://emilykuang.github.io/"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2020
+role: Ph.D. Student <br> (with Prof. Kristen Shinohara) <br> Fall, 2020
 
 user_groups:
   - Team

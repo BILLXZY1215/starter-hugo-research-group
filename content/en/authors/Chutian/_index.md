@@ -14,7 +14,7 @@ superuser: false
 website: "https://www.chutianj.com/"
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2022
+role: Ph.D. Student <br> (with Prof.  Pan Hui) <br> Fall, 2022
 
 user_groups:
   - Team

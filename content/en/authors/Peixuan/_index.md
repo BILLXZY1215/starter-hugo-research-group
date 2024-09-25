@@ -11,11 +11,12 @@ superuser: false
 
 website: "https://tony9811.github.io/"
 
-weight: 11
+weight: 8
 
 # Role/position
-role: MPhil Student <br> Fall, 2022
+role: Ph.D. Student <br> (with Prof. Kaishun Wu) <br> Fall, 2024
 
 user_groups:
   - Team
 ---
+

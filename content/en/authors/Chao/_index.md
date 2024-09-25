@@ -14,7 +14,7 @@ superuser: false
 website: ""
 
 # Role/position
-role: Ph.D. Student <br> Fall, 2023
+role: Ph.D. Student <br> (with Prof. Kang Zhang) <br> Fall, 2023
 
 user_groups:
   - Team

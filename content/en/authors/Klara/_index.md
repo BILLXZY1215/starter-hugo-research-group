@@ -11,7 +11,7 @@ superuser: false
 
 website: "https://klaraguan.github.io/"
 
-weight: 1
+weight: 2
 
 # Role/position
 role: Research Assistant <br> Fall 2022--Fall 2023 <br>  **Employment** --  UTAustin <br> **Position** -- PhD Student

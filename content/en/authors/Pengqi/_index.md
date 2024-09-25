@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Shumeng Zhang
+title: Pengqi Wang
 
 # Username (this should match the folder name)
 authors:
-  - Shumeng Zhang
+  - Pengqi Wang
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://www.szhangremi.com/"
+website: "https://ericwangpq.github.io/"
 
-weight: 7
+weight: 12
 
 # Role/position
-role: Ph.D. Student (co-supervision) <br> (with Prof. Raul Masu) <br> Spring, 2024
+role: MPhil Student <br> Fall, 2023
 
 user_groups:
   - Team

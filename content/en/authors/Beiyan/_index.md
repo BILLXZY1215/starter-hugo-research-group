@@ -14,7 +14,7 @@ superuser: false
 website: "http://www.caobeiyan.com/"
 
 # Role/position
-role: Ph.D. Student (co-supervision) <br> Spring, 2022
+role: Ph.D. Student (co-supervision) <br> (with Prof.  Muzhi Zhou) <br> Spring, 2022
 
 user_groups:
   - Team

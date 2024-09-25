@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Ruohao Li
+
 # Username (this should match the folder name)
 authors:
   - Ruohao Li
@@ -10,11 +11,12 @@ superuser: false
 
 website: "https://ruohaoli.github.io/"
 
-weight: 14
+weight: 8
 
 # Role/position
-role: Visiting Student
+role: Ph.D. Student <br> (with Prof. Ge Lin Kan) <br> Fall, 2024
 
 user_groups:
   - Team
 ---
+

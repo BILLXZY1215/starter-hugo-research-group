@@ -14,7 +14,7 @@ superuser: false
 website: "https://zhiqingw.github.io/"
 
 # Role/position
-role: Ph.D. Student <br> Spring, 2023
+role: Ph.D. Student <br> (with Prof. Huamin Qu) <br> Spring, 2023
 
 user_groups:
   - Team

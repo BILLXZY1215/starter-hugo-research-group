@@ -1,20 +1,18 @@
 ---
 # Display name
-title: Shumeng Zhang
+title: Mingqing Xu
 
 # Username (this should match the folder name)
 authors:
-  - Shumeng Zhang
+  - Mingqing Xu
 
 # Is this the primary user of the site?
 superuser: false
 
-website: "https://www.szhangremi.com/"
-
-weight: 7
+weight: 12
 
 # Role/position
-role: Ph.D. Student (co-supervision) <br> (with Prof. Raul Masu) <br> Spring, 2024
+role: MPhil Student <br> Fall, 2023
 
 user_groups:
   - Team
