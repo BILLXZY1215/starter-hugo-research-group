@@ -11,11 +11,12 @@ superuser: false
 
 website: ""
 
-weight: 1
+weight: 9
 
 # Role/position
-role: MPhil Student <br> Fall, 2022
+role: Ph.D. Student (co-supervision) <br> (with Prof. Tengjia Zuo) <br> Spring, 2025
+
 
 user_groups:
-  - Alumni
+  - Team
 ---
