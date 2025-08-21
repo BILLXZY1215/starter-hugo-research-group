@@ -7,7 +7,7 @@
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  **A**ccessible & **P**ervasive User **EX**perience  <br>
+  **A**ugmenting & **P**eople by **E**mpowering  **X** <br>
   (APEX) Group
 # hero_media: contact.jpg
 design:
@@ -21,7 +21,7 @@ design:
 <br>
 
 <div style="text-align: center; ">
-<strong>Make Computing More Accessible and Usable to Everyone</strong>
+<strong>Augmenting People by Empowering X (perception, mobility, cognition, social and emotional needs)</strong>
 </div>
 
 <br>
